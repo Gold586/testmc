@@ -1,0 +1,104 @@
+[12:02:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:02:14] [ServerMain/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./Skyblock/datapacks/Health-1.4.0.zip, ignoring
+[12:02:14] [ServerMain/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./Skyblock/datapacks/Health-1.4.0.zip, ignoring
+[12:02:16] [ServerMain/INFO]: Loaded 1175 recipes
+[12:02:16] [ServerMain/INFO]: Loaded 1277 advancements
+[12:02:16] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[12:02:16] [Server thread/INFO]: Loading properties
+[12:02:16] [Server thread/INFO]: This server is running Paper version 1.20.6-148-ver/1.20.6@20f5165 (2024-07-02T15:37:33Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[12:02:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:02:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:02:18] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[12:02:18] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[12:02:18] [Server thread/INFO]: Default game type: SURVIVAL
+[12:02:18] [Server thread/INFO]: Generating keypair
+[12:02:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:02:18] [Server thread/INFO]: Using epoll channel type
+[12:02:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[12:02:18] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[12:02:19] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[12:02:20] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[12:02:20] [Server thread/INFO]: [floodgate] Took 1,536ms to boot Floodgate
+[12:02:20] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.1-SNAPSHOT
+[12:02:21] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[12:02:22] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[12:02:22] [Server thread/INFO]: [SpawnerMeta] Loading server plugin SpawnerMeta v24.4
+[12:02:22] [Server thread/INFO]: [PlayerPoints] Loading server plugin PlayerPoints v3.2.7
+[12:02:22] [Server thread/INFO]: [PlayerPoints] Initializing using RoseGarden v1.3.0.36-DEV-SNAPSHOT
+[12:02:22] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.7.10
+[12:02:22] [Server thread/INFO]: [FishRewards] Loading server plugin FishRewards v1.4.3
+[12:02:22] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.1
+[12:02:22] [Server thread/INFO]: [AxMinions] Loading server plugin AxMinions v1.0.11
+[12:02:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:02:22] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v3.2.7
+[12:02:22] [Server thread/INFO]: [PlayerPoints] Data handler connected using SQLite.
+[12:02:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.1
+[12:02:23] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.6.
+[12:02:23] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[12:02:24] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[12:02:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:02:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:02:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:02:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:02:24] [Server thread/INFO]: Preparing level "Skyblock"
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.1
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 007139a
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[12:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:02:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:02:25] [Server thread/INFO]: Time elapsed: 803 ms
+[12:02:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:02:25] [Server thread/INFO]: Time elapsed: 108 ms
+[12:02:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:02:25] [Server thread/INFO]: Time elapsed: 150 ms
+[12:02:25] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[12:02:26] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.1-SNAPSHOT
+[12:02:26] [Server thread/INFO]: [SpawnerMeta] Enabling SpawnerMeta v24.4
+[12:02:26] [Server thread/INFO]: [SpawnerMeta v24.4] enabled!
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.7.10
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 section configs from /sections/
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 shop configs from /shops/
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [WARN]: Failed to load default economy provider with reason 'Could not find Vault', trying to automatically find supported economy provider
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Detected PlayerPoints, initializing...
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into PlayerPoints
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 1 economy provider(s) for all 14 shop sections.
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using minecraft version 1.20.6...
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Spawner provider set to AUTO in config
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: SpawnerMeta found, integrating...
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using SpawnerMeta as spawner provider.
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Debug mode is enabled.
+[12:02:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Loading all items...
+[12:02:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Initialized - Took 760ms to complete
+[12:02:28] [Server thread/INFO]: [FishRewards] Enabling FishRewards v1.4.3
+[12:02:28] [Server thread/INFO]: [FishRewards] loaded 3 packs
+[12:02:28] [Server thread/INFO]: [AxMinions] Enabling AxMinions v1.0.11
+[12:02:28] [Server thread/INFO]: [AxMinions] Hooked into EconomyShopGUI!
+[12:02:28] [Server thread/INFO]: [AxMinions] Hooked into PlayerPoints!
+[12:02:28] [Server thread/INFO]: [com.artillexstudios.axminions.libs.hikaricp.hikari.HikariDataSource] HikariPool-1 - Starting...
+[12:02:29] [Server thread/INFO]: [com.artillexstudios.axminions.libs.hikaricp.hikari.pool.HikariPool] HikariPool-1 - Added connection conn0: url=jdbc:h2:async:./plugins/AxMinions/data user=
+[12:02:29] [Server thread/INFO]: [com.artillexstudios.axminions.libs.hikaricp.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[12:02:29] [Server thread/WARN]: [AxMinions] "AxMinions v1.0.11" has registered a listener for com.destroystokyo.paper.event.brigadier.CommandRegisteredEvent on method "public void com.artillexstudios.axminions.libs.lamp.bukkit.brigadier.PaperCommodore$CommandRegisterListener.onCommandRegistered(com.destroystokyo.paper.event.brigadier.CommandRegisteredEvent<?>)", but the event is Deprecated. "This event has been superseded by the Commands API and will be removed in a future release. Listen to LifecycleEvents.COMMANDS instead."; please notify the authors [].
+[12:02:29] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:02:29] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:02:29] [Server thread/INFO]: [Geyser-Spigot] 
+[12:02:29] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.1-b643 (git-master-d3ea651)
+[12:02:29] [Server thread/INFO]: [Geyser-Spigot] 
+[12:02:29] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:02:34] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[12:02:34] [Server thread/INFO]: [Geyser-Spigot] Done (4.716s)! Run /geyser help for help!
+[12:02:34] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[12:02:34] [Server thread/INFO]: Running delayed init tasks
+[12:02:35] [Server thread/INFO]: Done (18.335s)! For help, type "help"
+[12:02:35] [Server thread/INFO]: Timings Reset

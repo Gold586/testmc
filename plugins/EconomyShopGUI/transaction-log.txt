@@ -1,0 +1,121 @@
+[2024-08-11 15:33:45] - StarSoul sold 90x Rotten Flesh(Mobs.page1.items.15) for 113 Points with the sell gui.
+[2024-08-11 15:37:20] - StarSoul bought 1 x String(Mobs.page1.items.18) for 7 Points with the buy screen.
+[2024-08-11 15:37:21] - StarSoul bought 1 x String(Mobs.page1.items.18) for 7 Points with the buy screen.
+[2024-08-11 15:38:01] - StarSoul sold 2x Tripwire Hook(Redstone.page1.items.16), 10x Ink Sac(Dyes.page1.items.32), 2x Lily Pad(Miscellaneous.page1.items.17) for 28 Points with the sell gui.
+[2024-08-11 15:39:40] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:40] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:41] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:41] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:41] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:41] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:41] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:41] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:41] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:42] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:42] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:42] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:42] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:42] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:42] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:42] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:44] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:44] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:44] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:45] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:45] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:45] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:45] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:45] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:45] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:47] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:47] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:47] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:47] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:47] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:49] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:39:49] - StarSoul bought 1 x Dirt(Blocks.page3.items.105) for 3 Points with the buy screen.
+[2024-08-11 15:40:48] - StarSoul sold 88x Gunpowder(Mobs.page1.items.9) for 341 Points with the sell gui.
+[2024-08-11 15:54:25] - StarSoul bought 64 x Dirt(Blocks.page3.items.105) for 192 Points with the buy screen.
+[2024-08-11 15:54:40] - StarSoul bought 60 x Dirt(Blocks.page3.items.105) for 180 Points with the buy screen.
+[2024-08-11 15:58:48] - StarSoul sold 14x Gunpowder(Mobs.page1.items.9), 136x Bone(Mobs.page1.items.4), 207x Arrow(Mobs.page1.items.1), 2x Rotten Flesh(Mobs.page1.items.15) for 379 Points with the sell gui.
+[2024-08-11 16:04:24] - StarSoul bought 1 x String(Mobs.page1.items.18) for 7 Points with the buy screen.
+[2024-08-11 16:06:06] - StarSoul sold 84x Bone(Mobs.page1.items.4), 7x Rotten Flesh(Mobs.page1.items.15) for 135 Points with the sell gui.
+[2024-08-11 16:15:57] - StarSoul bought 2 x Iron Ingot(Ores.page1.items.16) for 11 Points with the buy screen.
+[2024-08-11 16:37:30] - StarSoul bought 1 x Iron Block(Ores.page1.items.15) for 52 Points with the buy screen.
+[2024-08-11 16:37:34] - StarSoul bought 1 x Iron Block(Ores.page1.items.15) for 52 Points with the buy screen.
+[2024-08-11 16:52:21] - StarSoul bought 1 x Hopper(Redstone.page1.items.5) for 39 Points with the buy screen.
+[2024-08-11 16:52:56] - StarSoul sold 29x Gunpowder(Mobs.page1.items.9), 34x Bone(Mobs.page1.items.4), 2x String(Mobs.page1.items.18), 28x Arrow(Mobs.page1.items.1), 41x Rotten Flesh(Mobs.page1.items.15) for 234 Points with the sell gui.
+[2024-08-11 16:56:44] - StarSoul sold 7x Melon Slice(Farming.page1.items.18) for 2 Points with the sell gui.
+[2024-08-11 17:00:49] - StarSoul sold 23x Gunpowder(Mobs.page1.items.9), 12x Bone(Mobs.page1.items.4), 13x Arrow(Mobs.page1.items.1), 11x Rotten Flesh(Mobs.page1.items.15) for 128 Points with the sell gui.
+[2024-08-11 17:03:00] - StarSoul bought 1 x Axolotl Bucket(Miscellaneous.page1.items.2) for 19 Points with the buy screen.
+[2024-08-11 17:05:30] - StarSoul bought 1 x Smoker(Workstations.page1.items.11) for 19 Points with the buy screen.
+[2024-08-11 17:06:42] - StarSoul bought 1 x Bamboo(Farming.page1.items.1) for 0 Points with the buy screen.
+[2024-08-11 17:07:16] - StarSoul sold 19x Cooked Salmon(Food.page1.items.4) for 30 Points with the sell gui.
+[2024-08-11 17:09:41] - StarSoul sold 21x Bone(Mobs.page1.items.4), 47x Carrot(Farming.page1.items.8) for 90 Points with the sell gui.
+[2024-08-11 17:16:44] - StarSoul sold 33x Gunpowder(Mobs.page1.items.9), 16x Bone(Mobs.page1.items.4), 45x Arrow(Mobs.page1.items.1), 29x Rotten Flesh(Mobs.page1.items.15) for 214 Points with the sell gui.
+[2024-08-12 07:51:36] - StarSoul sold 103x Rotten Flesh(Mobs.page1.items.15), 119x Arrow(Mobs.page1.items.1), 124x Gunpowder(Mobs.page1.items.9), 118x Bone(Mobs.page1.items.4), 3x Feather(Mobs.page1.items.6), 3x Chicken(Food.page1.items.17) for 864 Points with the sell gui.
+[2024-08-12 07:51:36] - StarSoul sold 103x Rotten Flesh(Mobs.page1.items.15), 119x Arrow(Mobs.page1.items.1), 124x Gunpowder(Mobs.page1.items.9), 118x Bone(Mobs.page1.items.4), 3x Feather(Mobs.page1.items.6), 3x Chicken(Food.page1.items.17) for 864 Points with the sell gui.
+[2024-08-12 07:51:36] - StarSoul sold 103x Rotten Flesh(Mobs.page1.items.15), 119x Arrow(Mobs.page1.items.1), 124x Gunpowder(Mobs.page1.items.9), 118x Bone(Mobs.page1.items.4), 3x Feather(Mobs.page1.items.6), 3x Chicken(Food.page1.items.17) for 864 Points with the sell gui.
+[2024-08-12 15:45:17] - StarSoul sold 7x Sugar Cane(Farming.page1.items.25), 82x Rotten Flesh(Mobs.page1.items.15), 1x Chicken(Food.page1.items.17), 2x Feather(Mobs.page1.items.6), 89x Arrow(Mobs.page1.items.1), 85x Gunpowder(Mobs.page1.items.9), 84x Bone(Mobs.page1.items.4) for 614 Points with the sell gui.
+[2024-08-12 16:20:02] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:20:02] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:20:03] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:20:30] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:20:30] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:20:30] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:20:41] - StarSoul bought 1 x Dripstone Block(Blocks.page1.items.2) for 1 Point with the buy screen.
+[2024-08-12 16:20:41] - StarSoul bought 1 x Dripstone Block(Blocks.page1.items.2) for 1 Point with the buy screen.
+[2024-08-12 16:20:42] - StarSoul bought 1 x Dripstone Block(Blocks.page1.items.2) for 1 Point with the buy screen.
+[2024-08-12 16:20:52] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:20:52] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:20:53] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:23:41] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:23:41] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:24:03] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:24:03] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:24:36] - StarSoul sold 295x Cod(Food.page1.items.23) for 590 Points with the sell gui.
+[2024-08-12 16:24:51] - StarSoul bought 1 x Hopper(Redstone.page1.items.5) for 39 Points with the buy screen.
+[2024-08-12 16:25:20] - StarSoul bought 1 x Hopper(Redstone.page1.items.5) for 39 Points with the buy screen.
+[2024-08-12 16:20:02] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:20:02] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:20:03] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:20:30] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:20:30] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:20:30] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:20:41] - StarSoul bought 1 x Dripstone Block(Blocks.page1.items.2) for 1 Point with the buy screen.
+[2024-08-12 16:20:41] - StarSoul bought 1 x Dripstone Block(Blocks.page1.items.2) for 1 Point with the buy screen.
+[2024-08-12 16:20:42] - StarSoul bought 1 x Dripstone Block(Blocks.page1.items.2) for 1 Point with the buy screen.
+[2024-08-12 16:20:52] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:20:52] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:20:53] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:23:41] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:23:41] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:24:03] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:24:03] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:24:36] - StarSoul sold 295x Cod(Food.page1.items.23) for 590 Points with the sell gui.
+[2024-08-12 16:24:51] - StarSoul bought 1 x Hopper(Redstone.page1.items.5) for 39 Points with the buy screen.
+[2024-08-12 16:25:20] - StarSoul bought 1 x Hopper(Redstone.page1.items.5) for 39 Points with the buy screen.
+[2024-08-12 16:20:02] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:20:02] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:20:03] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:20:30] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:20:30] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:20:30] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:20:41] - StarSoul bought 1 x Dripstone Block(Blocks.page1.items.2) for 1 Point with the buy screen.
+[2024-08-12 16:20:41] - StarSoul bought 1 x Dripstone Block(Blocks.page1.items.2) for 1 Point with the buy screen.
+[2024-08-12 16:20:42] - StarSoul bought 1 x Dripstone Block(Blocks.page1.items.2) for 1 Point with the buy screen.
+[2024-08-12 16:20:52] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:20:52] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:20:53] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:23:41] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:23:41] - StarSoul bought 1 x Pointed Dripstone(Decoration.page1.items.5) for 1 Point with the buy screen.
+[2024-08-12 16:24:03] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:24:03] - StarSoul bought 1 x Cauldron(Redstone.page1.items.1) for 29 Points with the buy screen.
+[2024-08-12 16:24:36] - StarSoul sold 295x Cod(Food.page1.items.23) for 590 Points with the sell gui.
+[2024-08-12 16:24:51] - StarSoul bought 1 x Hopper(Redstone.page1.items.5) for 39 Points with the buy screen.
+[2024-08-12 16:25:20] - StarSoul bought 1 x Hopper(Redstone.page1.items.5) for 39 Points with the buy screen.
+[2024-08-12 16:28:17] - StarSoul sold 169x Pufferfish(Food.page1.items.25) for 1,014 Points with the sell gui.
+[2024-08-12 16:29:00] - StarSoul bought 1 x Hopper(Redstone.page1.items.5) for 39 Points with the buy screen.
+[2024-08-12 16:31:12] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:31:12] - StarSoul bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for 18 Points with the buy screen.
+[2024-08-12 16:39:58] - StarSoul sold 146x Carrot(Farming.page1.items.8) for 183 Points with the sell gui.
